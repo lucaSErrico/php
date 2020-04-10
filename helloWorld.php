@@ -1,7 +1,6 @@
 <?php
 
-echo "Hello World! Repolho cozido.";
-echo "alface";
+echo "Editado no site";
 
 echo "VS Code";
 ?>
