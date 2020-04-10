@@ -2,5 +2,4 @@
 
 echo "Editado no site";
 
-echo "VS Code";
 ?>
