@@ -1,6 +1,6 @@
 <?php
 
 echo "Editado no site";
-echo "VS";
-echo "mais uma linha do site";
+echo "VS Code";
+echo "mais uma linha do site, bacana";
 ?>
